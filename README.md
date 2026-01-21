@@ -6,7 +6,8 @@ Baptiste ARNOLD \
 Kahled MILI \
 Aurélien DAUDIN \
 Angela SAADE \
-Pierre SCHWEITZER
+Pierre SCHWEITZER \
+Maxime RUFF
 
 ## Usage
 
