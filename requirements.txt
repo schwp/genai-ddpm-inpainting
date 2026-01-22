@@ -4,3 +4,4 @@ torchvision
 matplotlib
 tqdm
 pandas
+streamlit
