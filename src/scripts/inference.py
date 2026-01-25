@@ -280,7 +280,7 @@ class InferenceHelper:
         
         dataset = datasets.FashionMNIST(
             data_dir,
-            train=True,
+            train=False,
             download=True,
             transform=transform,
         )
