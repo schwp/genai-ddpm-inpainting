@@ -17,6 +17,10 @@ To understand what we have done in this work, follow the next notebooks (located
 - `inference.ipynb`: use of the later model to generate images using DDPM and DDIM as well as applying the DPS method to make image inpainting.
 - `celeba.ipynb` and `celeba_inf.ipynb`: notebooks that aims to run inpainting over pictures of people using the CelebA dataset
 
+## Report and Slides
+
+In addition to the notebooks, the set of slides used for the presentation and a report of our work is available in the `doc/` directory.
+
 ## How to run
 
 Make sure you have download all depedencies inside `requirements.txt` before
